@@ -38,7 +38,7 @@
 
 <body>
   <div class="container">
-    <h1>Welcome to Our Website</h1>
+    <h1>Welcome to Our Website1</h1>
     <div class="counter">
       <?php
 $counterFile = 'visitor_count.txt';
